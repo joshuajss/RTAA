@@ -7,6 +7,12 @@ Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang
 *European Conference on Computer Vision (ECCV), 2020*
 
 ## Introduction
+<img src="https://github.com/joshuajss/RTAA/blob/master/demo/visualization.png" width='700'/><br/>
+
+Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks. 
+- We propose to generate adversarial examples to deteriorate the performance for visual object tracking. 
+- Conversely, we propose to defend deep trackers against adversarial attacks that eliminate their effect to alleviate performance drops caused by the adversarial attack.
+- We choose two typical trackers, **DaSiamRPN** and **RT-MDnet**.
 
 ## Prerequisites 
 
@@ -37,12 +43,15 @@ Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang
 | RT-MDNet+Att+Def |  0.420 / 0.589    |  0.515 / 1.021 / 0.110   |0.531 / 0.494 / 0.225|  0.419 / 0.620    |
 | RT-MDNet+Def     |  0.644 / 0.883    |  0.529 / 0.538 / 0.179   |0.540 / 0.168 / 0.364|  0.513 / 0.757    |
  
-:snowflake: **All raw results can be downloaded soon！**
+:snowflake: **All raw results will be downloaded soon！**
 
 ## Quick Start
 :snowflake: **The code is coming soon!**
 
 ## Demo
+<img src="https://github.com/joshuajss/RTAA/blob/master/demo/attack_otb100.gif" width='300'/>   <img src="https://github.com/joshuajss/RTAA/blob/master/demo/defense_otb100.gif" width='300'/><br/>
+&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github.com/joshuajss/RTAA/blob/master/demo/legend.png" width='400'/><br/>
+
 
 
 
