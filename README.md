@@ -57,7 +57,14 @@ Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks.
 
 ## Citation
 If any part of our paper and code is helpful to your work, please generously citing: 
-
+```
+@inproceedings{jia-eccv20-RTAA,
+  title={Robust Tracking against Adversarial Attacks},
+  author={Jia, Shuai and Song, Yibing and Ma, Chao and Yang, Xiaokang},
+  booktitle={European Conference on Computer Vision},
+  year={2020}
+}
+```
 Thank you!
 
 ## License
