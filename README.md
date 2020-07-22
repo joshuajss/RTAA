@@ -43,7 +43,7 @@ Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks.
 | RT-MDNet+Att+Def |  0.420 / 0.589    |  0.515 / 1.021 / 0.110   |0.531 / 0.494 / 0.225|  0.419 / 0.620    |
 | RT-MDNet+Def     |  0.644 / 0.883    |  0.529 / 0.538 / 0.179   |0.540 / 0.168 / 0.364|  0.513 / 0.757    |
  
-:snowflake: **All raw results will be downloaded soon！**
+:herb: **All raw results are available.**  [[Google_drive]](https://drive.google.com/drive/folders/1E1XrLghxyZRMQSPzO6oxKXd_htErX6WY?usp=sharing)  [[Baidu_Disk]](https://pan.baidu.com/s/1Iqdn34ZXufyxrpvujQykCg) Code: 5ex9
 
 ## Quick Start
 :snowflake: **The code is coming soon!**
@@ -65,6 +65,24 @@ If any part of our paper and code is helpful to your work, please generously cit
   year={2020}
 }
 ```
+```
+@inproceedings{zhu-eccv18-dasiamrpn,
+  title={Distractor-aware Siamese Networks for Visual Object Tracking},
+  author={Zhu, Zheng and Wang, Qiang and Li, Bo and Wu, Wei and Yan, Junjie and Hu, Weiming},
+  booktitle={European Conference on Computer Vision},
+  year={2018}
+}
+```
+```
+@InProceedings{jung-eccv19-rtmdnet,
+author = {Jung, Ilchae and Son, Jeany and Baek, Mooyeol and Han, Bohyung},
+title = {Real-Time MDNet},
+booktitle = {European Conference on Computer Vision (ECCV)},
+month = {Sept},
+year = {2018}
+}
+```
+
 Thank you!
 
 ## License
