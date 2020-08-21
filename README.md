@@ -52,17 +52,17 @@ Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks.
 
 Test the original performance on OTB2015 dataset, please using the follwing command.
 ```
-cd DaSiamRPN
+cd DaSiamRPN/code
 python test_otb.py
 ```
 Test the adversarial attack performance on OTB2015 dataset, please using the follwing command.
 ```
-cd DaSiamRPN
+cd DaSiamRPN/code
 python test_otb_attack.py
 ```
 Test the adversarial defense performance on OTB2015 dataset, please using the follwing command.
 ```
-cd DaSiamRPN
+cd DaSiamRPN/code
 python test_otb_defense.py
 ```
 
