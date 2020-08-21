@@ -46,7 +46,7 @@ Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks.
 :herb: **All raw results are available.**  [[Google_drive]](https://drive.google.com/drive/folders/1E1XrLghxyZRMQSPzO6oxKXd_htErX6WY?usp=sharing)  [[Baidu_Disk]](https://pan.baidu.com/s/1Iqdn34ZXufyxrpvujQykCg) Code: 5ex9
 
 ## Quick Start
-:snowflake: **The code is coming soon!**
+
 
 ## Demo
 <img src="https://github.com/joshuajss/RTAA/blob/master/demo/attack_otb100.gif" width='300'/>   <img src="https://github.com/joshuajss/RTAA/blob/master/demo/defense_otb100.gif" width='300'/><br/>
