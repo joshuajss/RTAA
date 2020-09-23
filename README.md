@@ -80,7 +80,7 @@ If any part of our paper and code is helpful to your work, please generously cit
 ```
 @inproceedings{jia-eccv20-RTAA,
   title={Robust Tracking against Adversarial Attacks},
-  author={Jia, Shuai and Song, Yibing and Ma, Chao and Yang, Xiaokang},
+  author={Jia, Shuai and Ma, Chao and Song, Yibing and Yang, Xiaokang},
   booktitle={European Conference on Computer Vision},
   year={2020}
 }
