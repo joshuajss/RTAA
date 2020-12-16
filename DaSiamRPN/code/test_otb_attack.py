@@ -105,7 +105,7 @@ def main():
     dataset = load_dataset(args.dataset)
     fps_list = []
     for v_id, video in enumerate(dataset.keys()):
-        if v_id > 27:
+        if v_id > -1:
             fps_list.append(track_video(net, dataset[video]))
     print('Mean Running Speed {:.1f}fps'.format(np.mean(np.array(fps_list))))
 
