@@ -20,6 +20,8 @@ Deep convolutional neural networks (CNNs) are vulnerable to adversarial attacks.
  
  - *The specific setting and pretrained model for **DaSiamPRN** can refer to [Code_DaSiamRPN](https://github.com/foolwood/DaSiamRPN)*
  
+ > python = 2.7, pytorch = 1.2.0, opencv-python = 4.2.0.32
+ 
  - *The specific setting and pretrained model for **RT-MDNet** can refer to [Code_RT-MDNet](https://github.com/IlchaeJung/RT-MDNet)*
  
 ## Results
