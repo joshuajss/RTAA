@@ -8,7 +8,7 @@ Shuai Jia, Chao Ma, Yibing Song and Xiaokang Yang
 
 ## Code
 
-Our code hsa been removed to **[https://github.com/VISION-SJTU/RTAA](https://github.com/VISION-SJTU/RTAA)**.
+Our code has been removed to **[https://github.com/VISION-SJTU/RTAA](https://github.com/VISION-SJTU/RTAA)**.
 
 
 
